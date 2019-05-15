@@ -1,0 +1,17 @@
+{
+  "name": "contactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
