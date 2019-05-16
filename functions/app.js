@@ -10,10 +10,8 @@ let contacts = [
     }
 ]
 
-// Set up the express app
 const app = express();
 
-// Log requests to the console.
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
